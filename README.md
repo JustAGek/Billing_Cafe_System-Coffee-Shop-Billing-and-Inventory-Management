@@ -16,7 +16,6 @@ A comprehensive web-based Cafe Billing Management System designed to simplify or
 - [Screenshots](#screenshots)
 - [Known Issues](#known-issues)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---

@@ -23,10 +23,7 @@ A comprehensive web-based Cafe Billing Management System designed to simplify or
 ## Overview
 
 The Cafe Billing Management System is a lightweight application aimed at simplifying day-to-day cafe operations. From managing product inventories to tracking orders and generating receipts, this system offers an intuitive and feature-rich platform for administrators and staff.
-
-**Live Demo:** [Link to hosted project/demo]  
-**Developer:** Abdulrahman Mahmoud
-
+ 
 ---
 
 ## Features

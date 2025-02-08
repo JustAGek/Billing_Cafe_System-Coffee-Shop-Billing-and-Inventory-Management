@@ -108,17 +108,6 @@ Click Pay to finalize and generate the receipt.
 Access the Sales Reports module.
 Choose the desired date range and view detailed sales data
 
-## File Structure
-cafe-billing-system/
-├── assets/               # Static files (CSS, JS, Images)
-├── db_connect.php        # Database connection file
-├── billing/              # Order management scripts
-├── cafe_billing_db.sql   # Database dump
-├── receipt.php           # Receipt generator script
-├── sales_report.php      # Sales report generator
-├── site_settings.php     # System settings
-└── indexo.php            # Main entry file
-
 ## Database Schema
 ### Tables
 
